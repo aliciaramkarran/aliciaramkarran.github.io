@@ -1,0 +1,17 @@
+body {
+    background-color: #D4CDBC;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#school {
+    width: 50%;
+}
+#outside {
+    width: 40%
+}
+#office {
+    width: 30%
+}
+#park {
+    width: 40%
+}
